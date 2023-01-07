@@ -1,3 +1,8 @@
 *.pdf
 *.chm
 .metadata/
+debug/
+HelloBlePorject/.settings/
+HelloBleProject.launch
+stm32cubeide.project.prefs
+
